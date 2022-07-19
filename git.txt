@@ -26,3 +26,5 @@ to check the git version and to make sure that your git is working properly
 12.git log - to view all the commits made in the repository
 
 13. ctrl + l - to clear screen
+
+14. git add . - to bring all files in staging area
