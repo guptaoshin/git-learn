@@ -1,0 +1,18 @@
+Basic Git commands are as follows -
+
+1. git --version 
+to check the git version and to make sure that your git is working properly
+
+2.git config --global user.name - To set the name of the author
+
+3. git config --global user.email - to  set the email of the author
+
+4.git config --global --edit - To edit author name/author email id
+
+5.cd /directory/ - to change the current directory
+
+6.mkdir - to make a new folder
+
+7.git status - to check the files in your folder
+
+8.ctrl + c - to get out of loop/ terminate the command
