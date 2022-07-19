@@ -16,3 +16,13 @@ to check the git version and to make sure that your git is working properly
 7.git status - to check the files in your folder
 
 8.ctrl + c - to get out of loop/ terminate the command
+
+9. ls -a - to iniialize your git folder
+
+10.ls - to list the content of your directory
+
+11. git commit -m "intial commit" - to view changes
+
+12.git log - to view all the commits made in the repository
+
+13. ctrl + l - to clear screen
